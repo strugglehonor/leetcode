@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8290ff2c-9cd5-492e-9117-7f60eeafa5ae" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/树/1.重建二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/1.重建二叉树.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +12,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/栈/用两个栈实现队列.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
+            <state relative-caret-position="475">
               <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数组/2.不修改数组找出重复的数字.py">
+        <entry file="file://$PROJECT_DIR$/栈/用两个队列实现一个栈.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../acer/Documents/checkmt_r.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/递归和循环/斐波那契数列.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4498">
-              <caret line="488" column="54" selection-start-line="488" selection-start-column="54" selection-end-line="488" selection-end-column="54" />
-              <folding>
-                <element signature="e#168#179#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数组/1.数组中重复数字.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -69,6 +74,8 @@
         <option value="$PROJECT_DIR$/树/二叉树的下一个节点.py" />
         <option value="$PROJECT_DIR$/树/二叉树的层次遍历.py" />
         <option value="$PROJECT_DIR$/栈/用两个栈实现队列.py" />
+        <option value="$PROJECT_DIR$/栈/用两个队列实现一个栈.py" />
+        <option value="$PROJECT_DIR$/递归和循环/斐波那契数列.py" />
       </list>
     </option>
   </component>
@@ -86,13 +93,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="剑指offer（Python）" type="b2602c69:ProjectViewProjectNode" />
               <item name="剑指offer（Python）" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer（Python）" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer（Python）" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="剑指offer（Python）" type="b2602c69:ProjectViewProjectNode" />
@@ -107,12 +118,18 @@
             <path>
               <item name="剑指offer（Python）" type="b2602c69:ProjectViewProjectNode" />
               <item name="剑指offer（Python）" type="462c0819:PsiDirectoryNode" />
+              <item name="递归和循环" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer（Python）" type="b2602c69:ProjectViewProjectNode" />
+              <item name="剑指offer（Python）" type="462c0819:PsiDirectoryNode" />
               <item name="链表" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,18 +295,21 @@
       <workItem from="1584613519467" duration="3908000" />
       <workItem from="1584671285440" duration="2671000" />
       <workItem from="1584685903469" duration="599000" />
-      <workItem from="1584700482490" duration="1680000" />
+      <workItem from="1584700482490" duration="2246000" />
+      <workItem from="1584776017256" duration="396000" />
+      <workItem from="1584787678462" duration="1210000" />
+      <workItem from="1584793256602" duration="2977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29900000" />
+    <option name="totallyTimeSpent" value="35049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.283751" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29830235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,13 +343,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/数组/替换空格.py" />
-    <entry file="file://$PROJECT_DIR$/数组/1.数组中重复数字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数组/4.替换空格.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -365,20 +378,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树的下一个节点.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/二叉树的层次遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数组/3.二维数组中的查找.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树/二叉树的层次遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -387,7 +397,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../acer/Documents/checkmt_r.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4498">
+        <state relative-caret-position="1192">
           <caret line="488" column="54" selection-start-line="488" selection-start-column="54" selection-end-line="488" selection-end-column="54" />
           <folding>
             <element signature="e#168#179#0" expanded="true" />
@@ -395,10 +405,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/树/二叉树的下一个节点.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/栈/用两个栈实现队列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
+        <state relative-caret-position="475">
           <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/1.数组中重复数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/用两个队列实现一个栈.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/递归和循环/斐波那契数列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
