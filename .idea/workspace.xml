@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8290ff2c-9cd5-492e-9117-7f60eeafa5ae" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/搜索/回溯/leetcode22括号生成.py" beforeDir="false" afterPath="$PROJECT_DIR$/搜索/回溯/leetcode22括号生成.py" afterDir="false" />
-    </list>
+    <list default="true" id="8290ff2c-9cd5-492e-9117-7f60eeafa5ae" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="156" />
     <option name="width" value="1212" />
     <option name="height" value="729" />
@@ -502,12 +499,12 @@
       <workItem from="1588553920104" duration="1342000" />
       <workItem from="1588667595374" duration="4005000" />
       <workItem from="1588847258439" duration="1236000" />
-      <workItem from="1588935427052" duration="3375000" />
+      <workItem from="1588935427052" duration="3967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75665000" />
+    <option name="totallyTimeSpent" value="76257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -518,7 +515,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21706864" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21706864" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888683" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
