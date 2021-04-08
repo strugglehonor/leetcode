@@ -17,3 +17,17 @@ class Solution:
             # 第 i 到 rk 个字符是一个极长的无重复字符子串
             ans = max(ans, rk - i + 1)
         return ans
+
+class Solution2:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        occ = set()
+        right = 0
+        res = 0
+        for i in range(len(s)):
+            if i != 0:
+                occ.remove(s[i-1])
+            while right < len(s) and s[right] not in occ:
+                occ.add(s[right])
+                right += 1
+            res = max(res, right-i)
+        return res
