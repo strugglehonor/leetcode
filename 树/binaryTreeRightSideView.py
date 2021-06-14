@@ -13,3 +13,4 @@ class Solution:
         depth += 1
         self.dfs(root.right, array, depth)
         self.dfs(root.left, array, depth)
+        
